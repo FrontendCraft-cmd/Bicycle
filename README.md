@@ -1,2 +1,2 @@
 # Bicycle
-GitHub Pages - https://nebeyi.github.io/Bicycle/
+GitHub Pages - https://frontendcraft-cmd.github.io/Bicycle/
